@@ -1,15 +1,16 @@
 # grunt-peon-add-remotes
-Grunt add-remotes is a Grunt [multitask](http://gruntjs.com/creating-tasks#multi-tasks) that will automatically add the remote origins to use as deployment endpoints based on the add-remotes configuration.
+
+Grunt [multitask](http://gruntjs.com/creating-tasks#multi-tasks) that will automatically add the remote origins to use as deployment endpoints based on the add-remotes configuration.
 
 ## Usage
 
 * Add all configured remotes:
 
-    peon add-remotes
+    `grunt add-remotes`
 
 * Add only the production remote:
 
-    peon add-remotes:production
+    `grunt add-remotes:production`
 
 
 ## Configuration
