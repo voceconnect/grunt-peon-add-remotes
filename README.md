@@ -35,4 +35,4 @@ Grunt [multitask](http://gruntjs.com/creating-tasks#multi-tasks) that will autom
 
 
 ## Release History
- * 2013-11-06 - v0.1.0 - Initial release.
+ * 2013-11-06 - v1.0.0 - Initial release.
