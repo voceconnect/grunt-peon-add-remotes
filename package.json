@@ -26,11 +26,11 @@
   },
   "devDependencies": {
     "grunt-contrib-coffee": "0.6.x",
-    "grunt-coffeelint" : "0.0.6",
+    "grunt-coffeelint": "0.0.6",
     "grunt": "~0.4.x"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
